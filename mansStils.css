@@ -1,0 +1,43 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 28 Feb 2021, 20:29:51
+    Author     : Viesis
+*/
+
+body {
+    background-image: url(images/ziema.jpg);
+    background-size: cover;
+    font-family: "Times New Roman", Times, serif;
+}
+h1 {
+    color: whitesmoke;
+}
+table, th, td {
+    border: 1px solid wheat;
+    color: white;
+}
+th {
+    text-align: left;
+}
+p {
+    color: white;
+    font-size: 120%;
+}
+h2 {
+    color: whitesmoke
+}
+ul {
+    color: lightgoldenrodyellow;
+}
+a {
+    color: lightskyblue;
+}
+p2 {
+    font-size: 100%;
+    font-style: italic;
+    color: goldenrod;  
+}
